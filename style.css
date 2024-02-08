@@ -2,3 +2,16 @@
 body {
   font-family: "Work Sans", sans-serif;
 }
+
+:root {
+  /* Color */
+  --primary-color: #ff42a5;
+  --head-color: #0b0223;
+}
+
+.primary-c {
+  color: var(--primary-color) !important;
+}
+.head-c {
+  color: var(--head-color) !important;
+}
