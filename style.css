@@ -15,3 +15,14 @@ body {
 .head-c {
   color: var(--head-color) !important;
 }
+.txt-bg {
+  background: linear-gradient(180deg, #f948b2 0%, #8758f1 100%) !important;
+  background-clip: text !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+.txt-edit {
+  color: var(--head-color) !important;
+  font-size: 3rem !important;
+  font-weight: 700 !important;
+}
